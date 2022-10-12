@@ -1,0 +1,15 @@
+.container{
+ margin: 20px;
+}
+
+.bold >.title1 {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 1024px) {
+    .container {
+        margin: 50px;
+        color: blue
+    }
+}

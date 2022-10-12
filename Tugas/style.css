@@ -1,0 +1,20 @@
+.container {
+    margin-top: 220px;
+    margin-left: 415px;
+    font-family: sans-serif;
+}
+
+.hijau {
+    background-color: green;
+    color: white;
+}
+
+#hitam {
+    background-color: black;
+    color: white;
+}
+
+#merah {
+    background-color: red;
+    color: white;
+}
